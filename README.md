@@ -18,7 +18,7 @@ The Pipeline will build and run a unit test on a sample go repository, and uploa
 #updated readme file for certification exam
 ## Graphical Summary
 
-#updating a PR
+#updating a PR 
 Hosted Infrastructure:
 
 ![alt text](./images/harness_ci_hosted_infra_overview-eb7892f29a82eeae8f7112763ae749d1.png)
