@@ -14,7 +14,7 @@ The Pipeline will build and run a unit test on a sample go repository, and uploa
 - Build the code and run unit tests.
 - Package the app as a Docker image and upload it to Docker Hub.
 
-
+#updating readme file for the pr 
 #updated readme file for certification exam
 ## Graphical Summary
 
